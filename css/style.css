@@ -119,7 +119,7 @@ button {
 
 /* videofitness styles */
 body {
-  background-color: #333;
+  background-color: #f89781;
   font-family: "Comic sans MS", san-serif;
   font-size: 80%;
 }
@@ -147,7 +147,7 @@ body {
 header {
   height: 125px;
   background: transparent url(../images/logo.png) no-repeat 0 18px;
-  border-bottom: 2px solid #c2cf00;
+  border-bottom: 2px solid #929c00;
   position: relative;
   margin-bottom: 25px;
 }
@@ -226,7 +226,7 @@ nav ul li a {
   position: relative;
   width: 112px;
   float: left;
-  background-color: #c2cf00;
+  background-color: #929c00;
   margin-right: 5px;
   text-align: center;
   color: white;

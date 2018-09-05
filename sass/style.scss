@@ -6,9 +6,9 @@ Highlight:  #C2CF52
 
 //SASS Variables
 $basefont: "Comic sans MS", san-serif;
-$background: #333;
-$accent: #c2cf00;
-$base: #f00;
+$background: saturate(#d6aca2, 50%);
+$accent: darken(#c2cf00, 10%);
+$base: complement(#f00);
 
 //MIXINS
 @mixin rounded($radius: 7){
